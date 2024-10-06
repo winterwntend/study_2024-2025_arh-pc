@@ -122,3 +122,16 @@ git add .
 git status
 git add .
 ls -a
+git add .
+cd ~/work/study/2024-2025/"Computer architecture"/arch-pc
+rm package.json
+ls -a
+git add .
+git commit -am 'feat(main): make course structure'
+git push
+git push --set-upstream origin master
+git remove -v
+git remote -v
+git add .
+git comit 'feat(main): make course structure'
+git commit 'feat(main): make course structure'

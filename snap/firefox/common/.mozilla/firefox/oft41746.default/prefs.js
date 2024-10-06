@@ -47,7 +47,7 @@ user_pref("browser.startup.couldRestoreSession.count", 1);
 user_pref("browser.startup.homepage_override.buildID", "20240819223648");
 user_pref("browser.startup.homepage_override.mstone", "129.0.2");
 user_pref("browser.startup.lastColdStartupCheck", 1728242020);
-user_pref("browser.topsites.contile.lastFetch", 1728255977);
+user_pref("browser.topsites.contile.lastFetch", 1728256881);
 user_pref("browser.translations.panelShown", true);
 user_pref("browser.uiCustomization.state", "{\"placements\":{\"widget-overflow-fixed-list\":[],\"unified-extensions-area\":[],\"nav-bar\":[\"back-button\",\"forward-button\",\"stop-reload-button\",\"customizableui-special-spring1\",\"urlbar-container\",\"customizableui-special-spring2\",\"save-to-pocket-button\",\"downloads-button\",\"fxa-toolbar-menu-button\",\"unified-extensions-button\"],\"toolbar-menubar\":[\"menubar-items\"],\"TabsToolbar\":[\"firefox-view-button\",\"tabbrowser-tabs\",\"new-tab-button\",\"alltabs-button\"],\"PersonalToolbar\":[\"import-button\",\"personal-bookmarks\"]},\"seen\":[\"save-to-pocket-button\",\"developer-button\"],\"dirtyAreaCache\":[\"nav-bar\",\"PersonalToolbar\",\"toolbar-menubar\",\"TabsToolbar\"],\"currentVersion\":20,\"newElementCount\":2}");
 user_pref("browser.urlbar.placeholderName", "Google");
