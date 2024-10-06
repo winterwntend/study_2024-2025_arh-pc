@@ -1,0 +1,7 @@
+[user]
+	name = winterwntend
+	email = canilalm@yandex.ru
+[core]
+	quotepathe = false
+	autocrlf = input
+	safecrlf = warn

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="0" last-seen="1728242063"/>
+    <application id="gnome-language-selector.desktop" score="7" last-seen="1728242961"/>
+    <application id="firefox_firefox.desktop" score="120" last-seen="1728256465"/>
+    <application id="org.gnome.Terminal.desktop" score="2309" last-seen="1728256465"/>
+    <application id="gnome-initial-setup.desktop" score="1" last-seen="1728163142"/>
+    <application id="org.gnome.Settings.desktop" score="5" last-seen="1728242963"/>
+    <application id="update-manager.desktop" score="1" last-seen="1728163595"/>
+  </context>
+</application-state>
